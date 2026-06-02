@@ -1,0 +1,13 @@
+# Archivos temporales de compilación
+*.o
+*.a
+*.so
+*.elf
+
+# Carpetas del IDE de Arduino moderno
+.build/
+.arduinoIDE/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

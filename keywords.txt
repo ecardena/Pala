@@ -1,0 +1,3 @@
+Pala	KEYWORD1
+iniciaPala	KEYWORD2
+muevePala	KEYWORD2
